@@ -11,7 +11,10 @@ namespace TestVC
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("and hello again!");
 
+            Console.WriteLine("Press any key to continue");
+            Console.ReadLine();
         }
     }
 }
